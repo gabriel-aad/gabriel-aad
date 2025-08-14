@@ -2,10 +2,10 @@
 
 ## 🔎 Sobre Mim
 
-Meu chamo Gabriel Adelino, e curso o 3° ano de <b>Desenvolvimento de Sistemas</b> no ensino médio. No momento estou...
-- 👨‍💻 Estudando e trabalhando com Angular e TypeScript;
-- 👾 Buscando me aprimorar como desenvolvedor front-end;
-- 🎯 Interessado em web development, UI e UX;
+Meu chamo Gabriel Adelino, e curso o 3° ano de Desenvolvimento de Sistemas no ensino médio. No momento estou...
+- 👨‍💻 Estudando e trabalhando com <b>Angular</b> e <b>TypeScript</b>;
+- 👾 Buscando me aprimorar como <b>desenvolvedor front-end<b>;
+- 🎯 Interessado em <b>web development</b>, <b>UI</b> e <b>UX</b>;
 
 ---
 
