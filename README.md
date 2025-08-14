@@ -1,6 +1,28 @@
-- Just learning...
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3939cc&text=Muito%20bem-vindo(a)-ao%20meu%20GitHub!&section=header&textBg=false&fontSize=40&animation=fadeIn&fontColor=ffffff&descAlign=50&fontAlignY=40&reversal=false&descAlignY=100" width="100%">
 
-<!---
-gabriel-aad/gabriel-aad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔎 Sobre Mim
+
+Meu chamo Gabriel Adelino, e curso o 3° ano de <b>Desenvolvimento de Sistemas</b> no ensino médio. No momento estou...
+- 👨‍💻 Estudando e trabalhando com Angular e TypeScript;
+- 👾 Buscando me aprimorar como desenvolvedor front-end;
+- 🎯 Interessado em web development, UI e UX;
+
+---
+
+## ⚙️ Linguagens e Tecnologias
+
+<div align="center"> 
+
+  ![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,git,vscode) 
+</div>
+
+---
+
+## 🔗 Para Contato
+
+<div align="center"> 
+
+![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3939cc&text=&section=footer&textBg=false&fontSize=40&animation=fadeIn&fontColor=ffffff&descAlign=50&fontAlignY=40&reversal=false&descAlignY=100" width="100%">
