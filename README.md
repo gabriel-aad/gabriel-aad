@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3939cc&text=Muito%20bem-vindo(a)-ao%20meu%20GitHub!&section=header&textBg=false&fontSize=40&animation=fadeIn&fontColor=ffffff&descAlign=50&fontAlignY=40&reversal=false&descAlignY=100" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3939cc&text=Seja%20bem-vindo(a)-ao%20meu%20GitHub!&section=header&textBg=false&fontSize=40&animation=fadeIn&fontColor=ffffff&descAlign=50&fontAlignY=40&reversal=false&descAlignY=100" width="100%">
 
 ## 🔎 Sobre Mim
 
