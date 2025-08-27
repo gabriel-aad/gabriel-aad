@@ -13,7 +13,7 @@ Meu chamo Gabriel Adelino, e curso o 3° ano de Desenvolvimento de Sistemas no e
 
 <div align="center"> 
 
-  ![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,git,vscode) 
+  ![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,git,github,vscode) 
 </div>
 
 ---
