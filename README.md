@@ -9,11 +9,18 @@ Meu chamo Gabriel Adelino, e curso o 3° ano de Desenvolvimento de Sistemas no e
 
 ---
 
-## ⚙️ Linguagens e Tecnologias
+## ⚙️ Linguagens
+
+<div align="center"> 
+  
+  ![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css) 
+</div>
+
+## 🛠️ Tecnologias
 
 <div align="center"> 
 
-  ![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,git,github,vscode) 
+  ![My Skills](https://skillicons.dev/icons?i=git,github,vscode) 
 </div>
 
 ---
