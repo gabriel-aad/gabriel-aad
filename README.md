@@ -18,7 +18,7 @@ Meu chamo Gabriel Adelino, e curso o 3° ano de Desenvolvimento de Sistemas no e
 ## 🛠️ Tecnologias
 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode">
 </div>
 
 ---
