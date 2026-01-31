@@ -2,8 +2,8 @@
 
 ## 🔎 Sobre Mim
 
-Meu chamo Gabriel Adelino, e curso o 3° ano de Desenvolvimento de Sistemas no ensino médio. No momento estou:
-- 👨‍💻 Estudando <b>Angular</b> e <b>TypeScript</b>;
+Meu chamo Gabriel Adelino, foco em desevolvimento web e sou técnico em Desenvolvimento de Sistemas. No momento estou:
+- 👨‍💻 Estudando <b>React</b>, <b>Angular</b> e <b>TypeScript</b>;
 - 👾 Buscando me aprimorar como <b>desenvolvedor front-end</b>;
 - 🎯 Interessado em <b>web development</b>, <b>UI design</b> e <b>UX design</b>;
 
@@ -15,10 +15,10 @@ Meu chamo Gabriel Adelino, e curso o 3° ano de Desenvolvimento de Sistemas no e
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss">
 </div>
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma">
 </div>
 
 ---
@@ -26,10 +26,10 @@ Meu chamo Gabriel Adelino, e curso o 3° ano de Desenvolvimento de Sistemas no e
 ## 🔗 Para Contato
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/gabriel-adelino-alves-de-souza/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-adelino-souza/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:gabrieladelinosouza@gmail.com">
+  <a href="mailto:gabrieladelinosouza@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </div>
