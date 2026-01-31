@@ -2,7 +2,7 @@
 
 ## 🔎 Sobre Mim
 
-Meu chamo Gabriel Adelino, foco em desevolvimento web e sou técnico em Desenvolvimento de Sistemas. No momento estou:
+Me chamo Gabriel Adelino, foco em desevolvimento web e sou técnico em Desenvolvimento de Sistemas. No momento estou:
 - 👨‍💻 Estudando <b>React</b>, <b>Angular</b> e <b>TypeScript</b>;
 - 👾 Buscando me aprimorar como <b>desenvolvedor front-end</b>;
 - 🎯 Interessado em <b>web development</b>, <b>UI design</b> e <b>UX design</b>;
